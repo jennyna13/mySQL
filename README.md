@@ -2,9 +2,7 @@
 - Create a MySQL Database called bamazon.
 - Then create a Table inside of that database called products.
 - The products table should have each of the following columns:
-
-
-
+<br><br>
 - item_id (unique id for each product)
 - product_name (Name of product)
 - department_name
@@ -36,3 +34,9 @@ However, if your store does have enough of the product, you should fulfill the c
 
 This means updating the SQL database to reflect the remaining quantity.
 Once the update goes through, show the customer the total cost of their purchase.
+
+<img width="745" alt="screen shot 2019-02-11 at 10 56 24 pm" src="https://user-images.githubusercontent.com/36944215/52610756-76636e80-2e50-11e9-9a15-710dd114a39a.png">
+
+<img width="729" alt="screen shot 2019-02-11 at 10 56 52 pm" src="https://user-images.githubusercontent.com/36944215/52610757-77949b80-2e50-11e9-9ea1-69e35ed1048d.png">
+
+<img width="734" alt="screen shot 2019-02-11 at 10 57 29 pm" src="https://user-images.githubusercontent.com/36944215/52610758-78c5c880-2e50-11e9-872d-491eea005caa.png">
